@@ -5,9 +5,9 @@
 
 ● Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email akun "Github"
 
-● Config : 
-               $ git config --global user.name "Nama User Github kalian"
-               $ git config --global user.email "Contoh@gmail.co.id"
+● Config :
+                    $ git config --global user.name "Nama User Github kalian"
+                    $ git config --global user.email "Contoh@gmail.co.id"
            
 ● Kemudian buat forlder baru "labs_pemrograman1"
 
@@ -40,7 +40,7 @@
 
      Config : $ git commit -m "File pertama Saya"
    
-==================================================================================================
+=================================================================================
 # GITHUB.COM
 ● Selanjunya kita beralih github.com *pastikan kalian punya akun di Github.com <<
 
