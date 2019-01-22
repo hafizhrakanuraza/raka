@@ -1,6 +1,7 @@
 # latihan1
 
 ●Tutorial Penggunaan git (README.md)
+
 ● Pertama-tama kita download dan instal terlebih dahulu Aplikasi Git sesuai PC masing-masing (https://git-scm*com/) * ganti .
 
 ● Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email akun "Github"
